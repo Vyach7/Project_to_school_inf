@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="N10.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="N11.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="N12.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="N2.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="N3.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="N4.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="N5.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="N6.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="N7.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="N8.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="N9.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Window1.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="N1.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Window3.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Window4.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Window5.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
